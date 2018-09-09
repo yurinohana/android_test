@@ -24,7 +24,7 @@
     <ImageView
         android:id="@+id/myHandImage"
         android:layout_width="160dp"
-        android:layout_height="160"
+        android:layout_height="160dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
@@ -37,9 +37,9 @@
         app:srcCompat="@drawable/gu" />
 
     <ImageView
-        android:id="@+id/omHandImage"
-        android:layout_width="130"
-        android:layout_height="200"
+        android:id="@+id/comHandImage"
+        android:layout_width="130dp"
+        android:layout_height="200dp"
         android:layout_marginBottom="8dp"
         android:layout_marginEnd="8dp"
         android:layout_marginStart="8dp"
